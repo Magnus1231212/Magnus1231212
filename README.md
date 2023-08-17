@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus1231212&show_icons=true&theme=transparent)
 <!--
 **Magnus1231212/Magnus1231212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
