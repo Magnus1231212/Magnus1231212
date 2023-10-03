@@ -4,7 +4,7 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Magnus1231212&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&show_icons=true&rank_icon=github" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus1231212&theme=github_dark_dimmed&layout=compact&title_color=FFFFFF" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus1231212&theme=github_dark_dimmed&layout=compact&title_color=FFF" />
 </a>
 <!--
 **Magnus1231212/Magnus1231212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
