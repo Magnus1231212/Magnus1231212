@@ -14,7 +14,7 @@
 ![MSsql](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Stats:
+## Stats
 <a>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Magnus1231212&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&show_icons=true&rank_icon=github" />
 </a>
